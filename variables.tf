@@ -24,12 +24,12 @@ variable "GKE_NUM_NODES" {
 
 variable "GKE_CLUSTER_NAME" {
   type        = string
-  default     = "main"
+  default     = "flux"
   description = "GKE cluster name"
 }
 
 variable "GKE_POOL_NAME" {
   type        = string
-  default     = "main"
+  default     = "flux"
   description = "GKE pool name"
 }
