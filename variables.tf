@@ -1,6 +1,6 @@
 variable "GOOGLE_PROJECT" {
   type        = string
-  default     = "mardukay-gke"
+  default     = "flux-sdrv"
   description = "GCP project name"
 }
 
