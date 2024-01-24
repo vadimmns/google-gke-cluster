@@ -1,6 +1,6 @@
 variable "GOOGLE_PROJECT" {
   type        = string
-  default     = "flux-sdrvadim"
+  default     = "flux-sdrvstudent"
   description = "GCP project name"
 }
 
